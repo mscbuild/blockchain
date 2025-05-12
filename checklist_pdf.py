@@ -1,5 +1,5 @@
 from fpdf import FPDF
-
+ 
 # Define checklist content
 checklist_sections = {
     "Basic Blockchain Core": [
